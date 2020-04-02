@@ -1,0 +1,7 @@
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\bin\Debug\Linked lists.exe.config
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\bin\Debug\Linked lists.exe
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\bin\Debug\Linked lists.pdb
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\obj\Debug\Linked lists.csprojAssemblyReference.cache
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\obj\Debug\Linked lists.csproj.CoreCompileInputs.cache
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\obj\Debug\Linked lists.exe
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid Computing\2.3.1 Linked lists\Linked lists\Linked lists\obj\Debug\Linked lists.pdb
