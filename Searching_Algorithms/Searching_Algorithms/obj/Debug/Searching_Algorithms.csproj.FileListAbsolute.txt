@@ -1,0 +1,7 @@
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\bin\Debug\Searching_Algorithms.exe.config
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\bin\Debug\Searching_Algorithms.exe
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\bin\Debug\Searching_Algorithms.pdb
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\obj\Debug\Searching_Algorithms.csprojAssemblyReference.cache
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\obj\Debug\Searching_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\obj\Debug\Searching_Algorithms.exe
+C:\Users\maxel\OneDrive - Shrewsbury Colleges Group\Computer Science\Pete Covid\2.3.1 Searching algos\Searching_Algorithms\Searching_Algorithms\obj\Debug\Searching_Algorithms.pdb
